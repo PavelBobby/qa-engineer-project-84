@@ -12,10 +12,6 @@ test-cases:
     status: pass
   
   - summary: |
-      работа фильтра цены. Негативный
-    status: fail 
-  
-  - summary: |
       кроссплатформенность / работоспособность на мобильных устройствах
     status: pass
     
